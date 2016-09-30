@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         init();
     }
-
+int a=10;
     private void init() {
         System.out.println("----hahh ");
     }
